@@ -6,12 +6,12 @@
 
 #### Part 1: 
 * part 1:Text Feild
-* Links: 
+* Links: https://www.youtube.com/watch?v=tmqk_98-VgI
 
 
 #### Part 2: 
 * part 2:Scaffold
-* Links: 
+* Links: https://www.youtube.com/watch?v=4_KikgRjzrA
 
 
 #### Part 3: 
