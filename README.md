@@ -16,23 +16,23 @@
 
 #### Part 3: 
 * part 3:Containers
-* Links: 
+* Links: https://www.youtube.com/watch?v=BXFsA8FyrTc&t=38s
 
 
 
 #### Part 4: 
 * part 4 :Row and Columns
-* Links: 
+* Links: https://www.youtube.com/watch?v=4YlDnqIcKHI
 
 
 #### Part 5: 
 * part 5:Rows and Columns with Container
-* Links: 
+* Links: https://www.youtube.com/watch?v=SBQ_RnzoJLw
 
 
 #### Part 6: 
 * part 6: Text Feild 
-* Links: 
+* Links: https://www.youtube.com/watch?v=oXcKwTI6HLo
 
 
 
